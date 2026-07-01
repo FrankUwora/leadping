@@ -1,14 +1,15 @@
 <?php
 /**
- * Plugin Name: LeadPing
- * Plugin URI:  https://yoursite.com/leadping
+ * Plugin Name: LeadPing – Instant WhatsApp Lead Notifications
+ * Plugin URI:  https://leadpingg.lovable.app/
  * Description: Captures form leads, sends instant WhatsApp notifications to the business owner and an auto-reply to the lead. All leads logged in a dashboard.
  * Version:     1.0.0
  * Author:      Frank Uwora
- * License:     GPL2
+ * Author URI:  https://www.linkedin.com/in/frankuwora/
+ * License:     GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: leadping
  */
-
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 define( 'LEADPING_VERSION', '1.0.0' );
